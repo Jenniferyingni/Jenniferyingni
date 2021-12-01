@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
     
-- 🔭 Read my blogs on <a href="https://juejin.cn/user/184373683164589">juejin</a>
+- 🔭 Read my blogs on <a href="https://juejin.cn/user/184373683164589/posts">juejin</a>
 
 
 <p>
